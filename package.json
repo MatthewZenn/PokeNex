@@ -1,0 +1,22 @@
+{
+  "name": "pokenex",
+  "version": "1.0.0",
+  "description": "An experiment in Procedural Data Generation",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewZenn/PokeNex.git"
+  },
+  "author": "Matthew Zenn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatthewZenn/PokeNex/issues"
+  },
+  "homepage": "https://github.com/MatthewZenn/PokeNex#readme",
+  "dependencies": {
+    "electron": "^20.0.2"
+  }
+}
