@@ -25,7 +25,7 @@ p {
 #name {
     position: fixed;
     left: 50%;
-    top: 50%;
+    top: 45%;
     transform: translate(-50%, -50%);
     display: inline-flex;
     font-weight: bolder;
@@ -34,8 +34,8 @@ p {
 
 #canvas3 {
     position: fixed;
-    left: 53.5%;
-    top: 51%;
+    left: 68%;
+    top: 46%;
     transform: translate(-50%, 0%);
     width: 30px;
     height: 30px;
@@ -47,8 +47,8 @@ p {
     left: 50%;
     top: 15%;
     transform: translate(-50%, 0%);
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
     image-rendering: pixelated;
     background: white;
     box-shadow: 10px 10px #586666;
@@ -65,15 +65,15 @@ p {
 
 .stats2 {
     position: absolute;
-    left: 50%;
-    top: 70%;
+    left: 45%;
+    top: 75%;
     transform: translate(-50%, -50%);
 }
 
 .container {
     position: absolute;
     left: 50%;
-    top: 85%;
+    top: 90%;
     transform: translate(-50%, -50%);
 
 }

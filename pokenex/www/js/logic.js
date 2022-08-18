@@ -151,7 +151,7 @@ function pattern() {
 document.getElementById("name").innerHTML = randomString(num)+"-";
 document.getElementById("type").innerHTML = types[Math.floor(Math.random()*types.length)];
 
-document.getElementById("heal").innerHTML = 'Health: '+Math.floor(Math.random()*100);
-document.getElementById("att").innerHTML = 'Attack: '+Math.floor(Math.random()*100);
-document.getElementById("def").innerHTML = 'Deffense: '+Math.floor(Math.random()*100);
+document.getElementById("heal").innerHTML = 'Health:'+Math.floor(Math.random()*100);
+document.getElementById("att").innerHTML = 'Attack:'+Math.floor(Math.random()*100);
+document.getElementById("def").innerHTML = 'Deffense:'+Math.floor(Math.random()*100);
 }
