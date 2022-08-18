@@ -18,8 +18,12 @@ p {
     font-weight: bold;
 }
 
+.con {
+    display: inline-flex;
+}
+
 #name {
-    position: absolute;
+    position: fixed;
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
@@ -29,8 +33,8 @@ p {
 }
 
 #canvas3 {
-    position: absolute;
-    left: 63%;
+    position: fixed;
+    left: 53.5%;
     top: 51%;
     transform: translate(-50%, 0%);
     width: 30px;
