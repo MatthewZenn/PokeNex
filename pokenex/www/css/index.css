@@ -18,6 +18,15 @@ p {
     font-weight: bold;
 }
 
+.logo {
+    position: absolute;
+    z-index: 999;
+    width: 250px;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%, 0%);
+}
+
 .con {
     display: inline-flex;
 }
@@ -79,17 +88,12 @@ p {
 }
 
 .generate {
-    background-color: #586666;
+    background-color: #ffba24;
     color: white;
     height: 75px;
     border: none;
     font-family: "Pokemon";
     font-size: 15pt;
-}
-
-.generate:hover {
-    background-color: #ffba24;
-    cursor: pointer;
 }
 
 #button {
