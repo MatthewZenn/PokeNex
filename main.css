@@ -1,5 +1,5 @@
 html, body {
-    background-color: #798c8c;
+    background-color: #96adad;
     background-image: url(Assets/background.png);
     background-size: 15%;
     image-rendering: pixelated;
@@ -15,8 +15,8 @@ html, body {
     height: 300px;
     image-rendering: pixelated;
     background: white;
-    box-shadow: 10px 10px #787890;
-    border: 4px solid #787890;
+    box-shadow: 10px 10px #586666;
+    border: 4px solid #586666;
 }
 
 .container {
@@ -28,7 +28,7 @@ html, body {
 }
 
 .generate {
-    background-color: #787890;
+    background-color: #586666;
     color: white;
     height: 75px;
     border: none;
@@ -37,7 +37,7 @@ html, body {
 }
 
 .generate:hover {
-    background-color: #e07451;
+    background-color: #ffba24;
     cursor: pointer;
 }
 
@@ -76,7 +76,7 @@ html, body {
     top:0%;
     left: 50%;
     transform: translate(-50%, 0%);
-    background-color: #f4d995;
+    background-color: #96adad;
     height: 100%;
     width: 75%;
     box-shadow: 10px 0px #586666;
@@ -87,7 +87,7 @@ html, body {
     top:0%;
     left: 50%;
     transform: translate(-50%, 0%);
-    background-color: #fff;
+    background-color: #96adad;
     height: 100%;
     width: 75%;
     box-shadow: -10px 0px #586666;
